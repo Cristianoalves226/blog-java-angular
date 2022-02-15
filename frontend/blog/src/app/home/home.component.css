@@ -1,8 +1,0 @@
-.parallax {
-    background: url('https://cdn.pixabay.com/photo/2016/04/19/05/07/turntable-1337986_960_720.jpg');
-    min-height: 500px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
